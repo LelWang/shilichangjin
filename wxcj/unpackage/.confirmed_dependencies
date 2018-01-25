@@ -1,0 +1,40 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "js/jquery-1.11.0.js",
+      "js/swiper-3.3.1.min.js",
+      "js/swiper.animate1.0.2.min.js",
+      "js/script.js",
+      "img/musicBtn.png",
+      "img/musicBtnOff.png",
+      "css/swiper-3.3.1.min.css",
+      "css/animate.min.css",
+      "css/style.css",
+      "audio/music.mp3",
+      "img/cover.png",
+      "img/wording_cover.png",
+      "img/icon_up.png",
+      "img/wording.png",
+      "img/circle.png",
+      "img/floating_develop.png",
+      "img/people.png",
+      "img/check_develop.png",
+      "img/wording_design.png",
+      "img/circle-design.png",
+      "img/people_design.png",
+      "img/floating_design.png",
+      "img/check_design.png",
+      "img/wording_production.png",
+      "img/circle-production.png",
+      "img/people_production.png",
+      "img/floating_production.png",
+      "img/pic_shadow_production.png",
+      "img/check_production.png",
+      "img/pic_back.png",
+      "img/btn_join.png"
+    ],
+    "refer": [],
+    "priority": 0
+  }
+}
