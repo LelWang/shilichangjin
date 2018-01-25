@@ -14,10 +14,13 @@ var bgmc=$("#bgmc").get(0);
 $(".bgmcBtn").click(function(){
 	 if(bgmc.paused){
             bgmc.play();
-            $(".bgmcBtn").html('<img src="slcj/img/musicBtn.png"/>');
+            $(".bgmcBtn img").first().show();
+            $(".bgmcBtn img").last().hide();
+            
         }else{
             bgmc.pause();
-            $(".bgmcBtn").html('<img src="slcj/img/musicBtnOff.png"/>');
+            $(".bgmcBtn img").last().show();
+            $(".bgmcBtn img").first().hide();
         }
 	});
 };
